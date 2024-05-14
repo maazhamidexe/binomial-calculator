@@ -1,5 +1,5 @@
 # binomial-calculator
-This program takes in n,p and limits of x, and then calculates the probability in those limits.
+This program takes in n,p and limits of x, and then calculates the probability in those limits. I wrote this code because i was too lazy to use calculator so many times for my assignment
 
 
 Functions:
